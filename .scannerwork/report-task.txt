@@ -1,0 +1,6 @@
+projectKey=Socito_Backend_28906
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=Socito_Backend_28906
+ceTaskId=AY4tY-te02ASefZCyh8O
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AY4tY-te02ASefZCyh8O
